@@ -2,8 +2,6 @@
 
 This application has the ability to Create, Read, and Delete countries on a list.
 
-![application-screenshot.png](application-screenshot.png)
-
 ## Getting Started
 
 
